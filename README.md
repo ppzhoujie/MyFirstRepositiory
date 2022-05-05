@@ -22,7 +22,7 @@ npm run build
 
 ````
 npm run lint
-```··········这次想怎么变哈哈哈哈
+```··········这次想怎么变哈哈哈哈（这是重新来后第二次提交）
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
